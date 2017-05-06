@@ -3,6 +3,7 @@
  * B2Core 是由 Brant (brantx@gmail.com)发起的基于PHP的MVC架构
  * 核心思想是在采用MVC框架的基础上最大限度的保留php的灵活性
  * 20120629
+ * 20170506 LCL
  * */
 
 define('B2CORE_VERSION','2.1');
